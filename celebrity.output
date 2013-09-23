@@ -1,0 +1,138 @@
+Reading outcome runtime is 1.8e-05
+Reading player runtime is 0.002384
+Sorting player runtime is 0.001144
+Reading input runtime is 0.004061
+Max score pruning runtime is 0.000754
+After pruning based on max score
+Standing after Round 4
+Rank  Name                  R64  R32  S16   E8   F4  NCG  Total  PPR Alv  Champion
+   1  Amir Johnson          210  240  160  240    0    0    850  640   Y   * Louisville
+   2  Jesse Williams        240  220  120  160    0    0    740  480   Y   * Louisville
+   3  Common                220  220  120  160    0    0    720  640   Y   * Louisville
+   3  Al Harford            240  240  160   80    0    0    720  480   Y   * Louisville
+   3  Candace Parker        220  220  200   80    0    0    720  480   Y   * Louisville
+   6  Bill Plaschke         210  220  200   80    0    0    710  160   Y   X Indiana
+   7  Charissa Thompson     240  220  160   80    0    0    700  480   Y   * Louisville
+   7  President Obama       200  220  200   80    0    0    700  160   Y   X Indiana
+   9  Dick Vitale           210  200  120  160    0    0    690  480   Y   * Louisville
+   9  Felix Jones           230  260  120   80    0    0    690    0   N   X Kansas
+  11  Mike Golic            220  220  160   80    0    0    680  480   Y   * Louisville
+  11  Joe Lunardi           200  200  200   80    0    0    680  480   Y   * Louisville
+  11  Zach McAllister       220  260  120   80    0    0    680    0   N   X Indiana
+  14  Anthony Anderson      210  200  160   80    0    0    650  480   Y   * Louisville
+  15  Jordan Crawford       240  200  120   80    0    0    640  480   Y   * Michigan
+  15  Le'Ron McClain        220  180  160   80    0    0    640  480   Y   * Louisville
+  15  Joba Chamberlain      240  200  120   80    0    0    640  480   Y   * Louisville
+  15  Rajon Rondo           200  240  120   80    0    0    640  480   Y   * Louisville
+  15  Benjamin Watson       200  200  160   80    0    0    640  160   N   X Miami_Fl
+  20  Josh Cribbs           190  200  160   80    0    0    630  480   Y   * Louisville
+  21  Matthew Berry         200  180  160   80    0    0    620  480   Y   * Louisville
+  21  Jordan Hamilton       200  220  120   80    0    0    620  480   Y   * Louisville
+  21  Mike Conley           200  180  160   80    0    0    620    0   N   X Ohio_State
+  21  Kroy Biermann         200  180  160   80    0    0    620    0   N   X Georgetown
+  25  Tobias Harris         190  180  160   80    0    0    610  480   Y   * Louisville
+  25  Mike Greenberg        230  180  120   80    0    0    610  480   Y   * Louisville
+  25  Stevie Johnson        230  180  120   80    0    0    610  160   N   X Indiana
+  25  Bubba Watson          210  200  120   80    0    0    610    0   N   X Gonzaga
+  25  Ronny Turiaf          190  220  200    0    0    0    610    0   N   X Gonzaga
+  30  Tony Kornheiser       200  200  120   80    0    0    600    0   N   X Indiana
+  30  Kirk Morrison         220  220  160    0    0    0    600    0   N   X Indiana
+  32  Jonathan Coachman     230  200  160    0    0    0    590    0   N   X Kansas
+  32  Marcellus Wiley       230  200  160    0    0    0    590    0   N   X Gonzaga
+  34  Kyle Rudolph          230  220  120    0    0    0    570    0   N   X Kansas
+  35  Swin Cash             220  180   80   80    0    0    560  480   Y   * Louisville
+  35  Jason Cameron         220  180   80   80    0    0    560  480   Y   * Louisville
+  35  Kid President         220  140  120   80    0    0    560  160   N   X Gonzaga
+  35  Calais Campbell       200  200   80   80    0    0    560  160   N   X Miami_Fl
+  39  Guy Torry             210  180  160    0    0    0    550    0   N   X Duke
+  40  Takeo Spikes          240  220   80    0    0    0    540    0   N   X Indiana
+  41  Neil Walker           210  160   80   80    0    0    530  160   N   X Indiana
+  41  Will Smith            190  180   80   80    0    0    530    0   N   X Ohio_State
+  41  Drew Stanton          250  120   80   80    0    0    530    0   N   X Michigan_St
+  44  Duane Brown           200  240   80    0    0    0    520    0   N   X Indiana
+  45  Serge Ibaka           210  180  120    0    0    0    510    0   N   X Georgetown
+  46  Mark Schlereth        220  200   80    0    0    0    500    0   N   X Michigan_St
+  47  Tom Wallisch          210  160   40   80    0    0    490  480   Y   * Louisville
+  47  Scott Porter's Dream  210  160   40   80    0    0    490  160   N   X Georgetown
+  47  Jay Williams          190  180  120    0    0    0    490    0   N   X Ohio_State
+  50  Scott Van Pelt        190  200   80    0    0    0    470    0   N   X Ohio_State
+  50  Mike Hill             230  160   80    0    0    0    470    0   N   X Michigan_St
+  50  Ryen Russillo         190  200   80    0    0    0    470    0   N   X Miami_Fl
+  53  Kim English           220  120   40   80    0    0    460  160   N   X Missouri
+  53  Michael Wilbon        180  160   40   80    0    0    460    0   N   X Georgetown
+  55  Claire Coffee         250  160   40    0    0    0    450    0   N   X Saint_Louis
+  55  Terrell Thomas        210  160   80    0    0    0    450    0   N   X Duke
+  57  Danny Green           220  160   40    0    0    0    420    0   N   X Indiana
+  57  Colin Cowherd         220  160   40    0    0    0    420    0   N   X Miami_Fl
+Total alive players 24
+Two player pruning runtime is 2e-06
+After pruning based on diff matrix
+Standing after Round 4
+Rank  Name                  R64  R32  S16   E8   F4  NCG  Total  PPR Alv  Champion
+   1  Amir Johnson          210  240  160  240    0    0    850  640   Y   * Louisville
+   2  Jesse Williams        240  220  120  160    0    0    740  480   N   * Louisville
+   3  Common                220  220  120  160    0    0    720  640   N   * Louisville
+   3  Al Harford            240  240  160   80    0    0    720  480   N   * Louisville
+   3  Candace Parker        220  220  200   80    0    0    720  480   N   * Louisville
+   6  Bill Plaschke         210  220  200   80    0    0    710  160   N   X Indiana
+   7  Charissa Thompson     240  220  160   80    0    0    700  480   N   * Louisville
+   7  President Obama       200  220  200   80    0    0    700  160   N   X Indiana
+   9  Dick Vitale           210  200  120  160    0    0    690  480   N   * Louisville
+   9  Felix Jones           230  260  120   80    0    0    690    0   N   X Kansas
+  11  Mike Golic            220  220  160   80    0    0    680  480   N   * Louisville
+  11  Joe Lunardi           200  200  200   80    0    0    680  480   N   * Louisville
+  11  Zach McAllister       220  260  120   80    0    0    680    0   N   X Indiana
+  14  Anthony Anderson      210  200  160   80    0    0    650  480   N   * Louisville
+  15  Jordan Crawford       240  200  120   80    0    0    640  480   Y   * Michigan
+  15  Le'Ron McClain        220  180  160   80    0    0    640  480   N   * Louisville
+  15  Joba Chamberlain      240  200  120   80    0    0    640  480   N   * Louisville
+  15  Rajon Rondo           200  240  120   80    0    0    640  480   N   * Louisville
+  15  Benjamin Watson       200  200  160   80    0    0    640  160   N   X Miami_Fl
+  20  Josh Cribbs           190  200  160   80    0    0    630  480   N   * Louisville
+  21  Matthew Berry         200  180  160   80    0    0    620  480   N   * Louisville
+  21  Jordan Hamilton       200  220  120   80    0    0    620  480   N   * Louisville
+  21  Mike Conley           200  180  160   80    0    0    620    0   N   X Ohio_State
+  21  Kroy Biermann         200  180  160   80    0    0    620    0   N   X Georgetown
+  25  Tobias Harris         190  180  160   80    0    0    610  480   N   * Louisville
+  25  Mike Greenberg        230  180  120   80    0    0    610  480   N   * Louisville
+  25  Stevie Johnson        230  180  120   80    0    0    610  160   N   X Indiana
+  25  Bubba Watson          210  200  120   80    0    0    610    0   N   X Gonzaga
+  25  Ronny Turiaf          190  220  200    0    0    0    610    0   N   X Gonzaga
+  30  Tony Kornheiser       200  200  120   80    0    0    600    0   N   X Indiana
+  30  Kirk Morrison         220  220  160    0    0    0    600    0   N   X Indiana
+  32  Jonathan Coachman     230  200  160    0    0    0    590    0   N   X Kansas
+  32  Marcellus Wiley       230  200  160    0    0    0    590    0   N   X Gonzaga
+  34  Kyle Rudolph          230  220  120    0    0    0    570    0   N   X Kansas
+  35  Swin Cash             220  180   80   80    0    0    560  480   N   * Louisville
+  35  Jason Cameron         220  180   80   80    0    0    560  480   N   * Louisville
+  35  Kid President         220  140  120   80    0    0    560  160   N   X Gonzaga
+  35  Calais Campbell       200  200   80   80    0    0    560  160   N   X Miami_Fl
+  39  Guy Torry             210  180  160    0    0    0    550    0   N   X Duke
+  40  Takeo Spikes          240  220   80    0    0    0    540    0   N   X Indiana
+  41  Neil Walker           210  160   80   80    0    0    530  160   N   X Indiana
+  41  Will Smith            190  180   80   80    0    0    530    0   N   X Ohio_State
+  41  Drew Stanton          250  120   80   80    0    0    530    0   N   X Michigan_St
+  44  Duane Brown           200  240   80    0    0    0    520    0   N   X Indiana
+  45  Serge Ibaka           210  180  120    0    0    0    510    0   N   X Georgetown
+  46  Mark Schlereth        220  200   80    0    0    0    500    0   N   X Michigan_St
+  47  Tom Wallisch          210  160   40   80    0    0    490  480   N   * Louisville
+  47  Scott Porter's Dream  210  160   40   80    0    0    490  160   N   X Georgetown
+  47  Jay Williams          190  180  120    0    0    0    490    0   N   X Ohio_State
+  50  Scott Van Pelt        190  200   80    0    0    0    470    0   N   X Ohio_State
+  50  Mike Hill             230  160   80    0    0    0    470    0   N   X Michigan_St
+  50  Ryen Russillo         190  200   80    0    0    0    470    0   N   X Miami_Fl
+  53  Kim English           220  120   40   80    0    0    460  160   N   X Missouri
+  53  Michael Wilbon        180  160   40   80    0    0    460    0   N   X Georgetown
+  55  Claire Coffee         250  160   40    0    0    0    450    0   N   X Saint_Louis
+  55  Terrell Thomas        210  160   80    0    0    0    450    0   N   X Duke
+  57  Danny Green           220  160   40    0    0    0    420    0   N   X Indiana
+  57  Colin Cowherd         220  160   40    0    0    0    420    0   N   X Miami_Fl
+Total alive players 2
+All possible winners and their winning scenarios are 
+Amir Johnson: The winner scenarios versus each person and whole pools are: 
+	Jordan Crawford : M1_5 + S4_6'
+	Whole Pool : M1_5 + S4_6'
+Jordan Crawford: The winner scenarios versus each person and whole pools are: 
+	Amir Johnson : S4_6 M1_5'
+	Whole Pool : S4_6 W9_5
+Total runtime is 0.009507

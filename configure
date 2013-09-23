@@ -1,0 +1,19 @@
+debug_level minimum
+#minimum: only print what Chuck mentioned in previous email with minimum information, such as the final binary matrix, final min terms for survivors
+#detail: player information as matrix; diff matrix between every two people; min/max scores
+#dump: every single detail. E.g. the new matrix after each rule is applied, the new min-term after each rule is applied
+
+
+#logic_simulate -f 13bracket benchmark_generator/20random_with13picks  outcomes.final
+team_file 13bracket
+#pick_file 13picks.txt
+#pick_file 8000000random
+pick_file Celebrity.txt
+outcome_file outcomes.final
+#know result from round 1 to completed_round; if none, then set this to 0
+completed_round 3
+
+#determines if stop as finding the first product
+explore_all_minterms off
+#determines if do optimization for min terms
+optimization on

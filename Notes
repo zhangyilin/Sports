@@ -1,0 +1,100 @@
+All good things we have:
+1. Lemma of pruning:
+  if p1 prunes p2 (p1 >> p2), p2 prunes p3 (p2 >> p3), can we prove p1 prune p3 (p1 >> p3)?
+
+2. By diff matrix pruning, we surprisingly found that Obama got pruned out at the 1st round.
+
+3. Run 5000 random players for only the 1st round, we found that diff matrix pruning works pretty well. Not only top players use this scheme to prune out others, but also players with low current-score can do.
+   Key speedup technique is that we stop pruning if the difference is already bigger than the total score difference between two players
+
+------------------------------------------------------------------------
+r22 | zhuoli | 2013-09-06 15:20:52 -0500 (Fri, 06 Sep 2013) | 1 line
+
+Speedup the PrunePlayer routine by checking if current max dif score is already larger than the total score difference. Comment out assert routines for get_element and others
+------------------------------------------------------------------------
+r21 | zylime | 2013-09-06 15:11:11 -0500 (Fri, 06 Sep 2013) | 1 line
+
+change min_term.C back to r19
+------------------------------------------------------------------------
+r20 | zylime | 2013-09-06 14:50:08 -0500 (Fri, 06 Sep 2013) | 1 line
+
+Add file Notes where we record all shiny points we found in the project
+------------------------------------------------------------------------
+r19 | zhuoli | 2013-09-06 14:16:48 -0500 (Fri, 06 Sep 2013) | 1 line
+
+Fix runtime problem of reading input. Fix the bug of rules of M5M6 = M6
+------------------------------------------------------------------------
+r18 | zylime | 2013-09-06 12:46:22 -0500 (Fri, 06 Sep 2013) | 1 line
+
+5000 random players added
+------------------------------------------------------------------------
+r17 | zhuoli | 2013-09-06 12:41:50 -0500 (Fri, 06 Sep 2013) | 1 line
+
+add the pruning based on diff matrix for all players
+------------------------------------------------------------------------
+r16 | zhuoli | 2013-09-06 11:30:34 -0500 (Fri, 06 Sep 2013) | 1 line
+
+Fix the bug when whole pool contains only one player and update golden celebrity output
+------------------------------------------------------------------------
+r15 | zhuoli | 2013-09-06 11:16:46 -0500 (Fri, 06 Sep 2013) | 1 line
+
+Add new min_term.C/h file to separate all min term functions
+------------------------------------------------------------------------
+r14 | zylime | 2013-09-06 00:10:48 -0500 (Fri, 06 Sep 2013) | 1 line
+
+1.Use auto indent to have uniform indents for logic_simulate.C 2.Add another prune scheme in PrunePlayersWithMaxScore. This prune scheme use diff matrix to eliminate any player who has no chance to win certain other player. Notice this scheme change the output and right now we have discrepency with golden results
+------------------------------------------------------------------------
+r13 | zhuoli | 2013-09-04 16:16:00 -0500 (Wed, 04 Sep 2013) | 1 line
+
+Update the golden regression output with new output
+------------------------------------------------------------------------
+r12 | zhuoli | 2013-09-04 16:14:03 -0500 (Wed, 04 Sep 2013) | 1 line
+
+Further improve the output. Change rank to start with 1. Also sort the player based on points left over if two players have same total score
+------------------------------------------------------------------------
+r11 | zhuoli | 2013-09-04 14:03:48 -0500 (Wed, 04 Sep 2013) | 1 line
+
+Forgot to uncomment CompareAllPlayers in logic_simulate.C
+------------------------------------------------------------------------
+r10 | zhuoli | 2013-09-04 13:48:40 -0500 (Wed, 04 Sep 2013) | 1 line
+
+add max score to each player. Prune all players by simple pruning of max versus current. Update bug in 13.pics.tct and change configure
+------------------------------------------------------------------------
+r9 | zhuoli | 2013-09-04 12:59:59 -0500 (Wed, 04 Sep 2013) | 1 line
+
+Update  golden output
+------------------------------------------------------------------------
+r8 | zhuoli | 2013-09-04 12:50:28 -0500 (Wed, 04 Sep 2013) | 1 line
+
+Update right Celebrity file
+------------------------------------------------------------------------
+r7 | alpert | 2013-09-04 12:38:48 -0500 (Wed, 04 Sep 2013) | 1 line
+
+changed format of print player info routing
+------------------------------------------------------------------------
+r6 | zhuoli | 2013-09-04 12:36:19 -0500 (Wed, 04 Sep 2013) | 1 line
+
+Fix the bug of not loading round 6
+------------------------------------------------------------------------
+r5 | zhuoli | 2013-09-04 00:14:40 -0500 (Wed, 04 Sep 2013) | 1 line
+
+Add configure.arl, generate golden regression output and update run.sh to compare the golden all the time. Update the output format again and only print people who are still alive for scenarios
+------------------------------------------------------------------------
+r4 | zhuoli | 2013-09-03 23:20:31 -0500 (Tue, 03 Sep 2013) | 1 line
+
+Remove some outputs at minimum level. Sort all players based on current score and print nicely. Add code to check the max player name length. Fix the bug where we did not load round 5 and round 6 score
+------------------------------------------------------------------------
+r3 | zylime | 2013-09-03 16:22:25 -0500 (Tue, 03 Sep 2013) | 1 line
+
+Add Celebrarity.txt file and configure.celebrity file. Update 13picks.txt to be correct one. Change logic_simulate.C to fix the read input bug
+------------------------------------------------------------------------
+r2 | zhuoli | 2013-09-03 15:40:54 -0500 (Tue, 03 Sep 2013) | 1 line
+
+add first version
+------------------------------------------------------------------------
+r1 | zhuoli | 2013-09-03 15:20:36 -0500 (Tue, 03 Sep 2013) | 1 line
+
+add run.sh as a test
+------------------------------------------------------------------------
+
+

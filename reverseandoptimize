@@ -1,0 +1,288 @@
+Reading outcome runtime is 0
+Reading player runtime is 0.003
+Sorting player runtime is 0.001
+Reading input runtime is 0.004
+Max score pruning runtime is 0.001
+After pruning based on max score
+Standing after Round 3
+Rank  Name                  R64  R32  S16   E8   F4  NCG  Total  PPR Alv  Champion
+   1  Candace Parker        220  220  200    0    0    0    640  720   Y   * Louisville
+   1  Al Harford            240  240  160    0    0    0    640  640   Y   * Louisville
+   3  Bill Plaschke         210  220  200    0    0    0    630  400   Y   X Indiana
+   4  Charissa Thompson     240  220  160    0    0    0    620  640   Y   * Louisville
+   4  President Obama       200  220  200    0    0    0    620  400   Y   X Indiana
+   6  Amir Johnson          210  240  160    0    0    0    610  880   Y   * Louisville
+   6  Felix Jones           230  260  120    0    0    0    610  320   Y   X Kansas
+   6  Ronny Turiaf          190  220  200    0    0    0    610  160   Y   X Gonzaga
+   9  Joe Lunardi           200  200  200    0    0    0    600  800   Y   * Louisville
+   9  Mike Golic            220  220  160    0    0    0    600  720   Y   * Louisville
+   9  Zach McAllister       220  260  120    0    0    0    600  320   Y   X Indiana
+   9  Kirk Morrison         220  220  160    0    0    0    600  320   Y   X Indiana
+  13  Jonathan Coachman     230  200  160    0    0    0    590  320   Y   X Kansas
+  13  Marcellus Wiley       230  200  160    0    0    0    590   80   Y   X Gonzaga
+  15  Jesse Williams        240  220  120    0    0    0    580  720   Y   * Louisville
+  16  Anthony Anderson      210  200  160    0    0    0    570  560   Y   * Louisville
+  16  Kyle Rudolph          230  220  120    0    0    0    570  240   Y   X Kansas
+  18  Common                220  220  120    0    0    0    560  800   Y   * Louisville
+  18  Rajon Rondo           200  240  120    0    0    0    560  640   Y   * Louisville
+  18  Le'Ron McClain        220  180  160    0    0    0    560  560   Y   * Louisville
+  18  Joba Chamberlain      240  200  120    0    0    0    560  560   Y   * Louisville
+  18  Jordan Crawford       240  200  120    0    0    0    560  560   Y   * Michigan
+  18  Benjamin Watson       200  200  160    0    0    0    560  320   Y   X Miami_Fl
+  24  Guy Torry             210  180  160    0    0    0    550  720   Y   * Duke
+  24  Josh Cribbs           190  200  160    0    0    0    550  560   Y   * Louisville
+  26  Mike Conley           200  180  160    0    0    0    540  720   Y   * Ohio_State
+  26  Matthew Berry         200  180  160    0    0    0    540  640   Y   * Louisville
+  26  Jordan Hamilton       200  220  120    0    0    0    540  560   Y   * Louisville
+  26  Kroy Biermann         200  180  160    0    0    0    540  320   Y   X Georgetown
+  26  Takeo Spikes          240  220   80    0    0    0    540    0   N   X Indiana
+  31  Dick Vitale           210  200  120    0    0    0    530  720   Y   * Louisville
+  31  Mike Greenberg        230  180  120    0    0    0    530  720   Y   * Louisville
+  31  Tobias Harris         190  180  160    0    0    0    530  640   Y   * Louisville
+  31  Stevie Johnson        230  180  120    0    0    0    530  320   Y   X Indiana
+  31  Bubba Watson          210  200  120    0    0    0    530   80   N   X Gonzaga
+  36  Tony Kornheiser       200  200  120    0    0    0    520  320   Y   X Indiana
+  36  Duane Brown           200  240   80    0    0    0    520  240   Y   X Indiana
+  38  Serge Ibaka           210  180  120    0    0    0    510   80   N   X Georgetown
+  39  Mark Schlereth        220  200   80    0    0    0    500    0   N   X Michigan_St
+  40  Jay Williams          190  180  120    0    0    0    490  560   Y   * Ohio_State
+  41  Swin Cash             220  180   80    0    0    0    480  640   Y   * Louisville
+  41  Jason Cameron         220  180   80    0    0    0    480  560   Y   * Louisville
+  41  Kid President         220  140  120    0    0    0    480  320   Y   X Gonzaga
+  41  Calais Campbell       200  200   80    0    0    0    480  320   Y   X Miami_Fl
+  45  Scott Van Pelt        190  200   80    0    0    0    470  640   Y   * Ohio_State
+  45  Ryen Russillo         190  200   80    0    0    0    470   80   N   X Miami_Fl
+  45  Mike Hill             230  160   80    0    0    0    470   80   N   X Michigan_St
+  48  Terrell Thomas        210  160   80    0    0    0    450  640   Y   * Duke
+  48  Will Smith            190  180   80    0    0    0    450  640   Y   * Ohio_State
+  48  Neil Walker           210  160   80    0    0    0    450  240   Y   X Indiana
+  48  Drew Stanton          250  120   80    0    0    0    450  160   N   X Michigan_St
+  48  Claire Coffee         250  160   40    0    0    0    450   80   N   X Saint_Louis
+  53  Colin Cowherd         220  160   40    0    0    0    420   80   N   X Miami_Fl
+  53  Danny Green           220  160   40    0    0    0    420    0   N   X Indiana
+  55  Tom Wallisch          210  160   40    0    0    0    410  560   Y   * Louisville
+  55  Scott Porter's Dream  210  160   40    0    0    0    410  240   Y   X Georgetown
+  57  Kim English           220  120   40    0    0    0    380  240   N   X Missouri
+  57  Michael Wilbon        180  160   40    0    0    0    380   80   N   X Georgetown
+Total alive players 46
+Two player pruning runtime is 0
+After pruning based on diff matrix
+Standing after Round 3
+Rank  Name                  R64  R32  S16   E8   F4  NCG  Total  PPR Alv  Champion
+   1  Candace Parker        220  220  200    0    0    0    640  720   Y   * Louisville
+   1  Al Harford            240  240  160    0    0    0    640  640   Y   * Louisville
+   3  Bill Plaschke         210  220  200    0    0    0    630  400   N   X Indiana
+   4  Charissa Thompson     240  220  160    0    0    0    620  640   N   * Louisville
+   4  President Obama       200  220  200    0    0    0    620  400   N   X Indiana
+   6  Amir Johnson          210  240  160    0    0    0    610  880   Y   * Louisville
+   6  Felix Jones           230  260  120    0    0    0    610  320   Y   X Kansas
+   6  Ronny Turiaf          190  220  200    0    0    0    610  160   Y   X Gonzaga
+   9  Joe Lunardi           200  200  200    0    0    0    600  800   Y   * Louisville
+   9  Mike Golic            220  220  160    0    0    0    600  720   N   * Louisville
+   9  Zach McAllister       220  260  120    0    0    0    600  320   Y   X Indiana
+   9  Kirk Morrison         220  220  160    0    0    0    600  320   Y   X Indiana
+  13  Jonathan Coachman     230  200  160    0    0    0    590  320   Y   X Kansas
+  13  Marcellus Wiley       230  200  160    0    0    0    590   80   N   X Gonzaga
+  15  Jesse Williams        240  220  120    0    0    0    580  720   Y   * Louisville
+  16  Anthony Anderson      210  200  160    0    0    0    570  560   N   * Louisville
+  16  Kyle Rudolph          230  220  120    0    0    0    570  240   N   X Kansas
+  18  Common                220  220  120    0    0    0    560  800   N   * Louisville
+  18  Rajon Rondo           200  240  120    0    0    0    560  640   N   * Louisville
+  18  Le'Ron McClain        220  180  160    0    0    0    560  560   N   * Louisville
+  18  Joba Chamberlain      240  200  120    0    0    0    560  560   N   * Louisville
+  18  Jordan Crawford       240  200  120    0    0    0    560  560   Y   * Michigan
+  18  Benjamin Watson       200  200  160    0    0    0    560  320   N   X Miami_Fl
+  24  Guy Torry             210  180  160    0    0    0    550  720   Y   * Duke
+  24  Josh Cribbs           190  200  160    0    0    0    550  560   N   * Louisville
+  26  Mike Conley           200  180  160    0    0    0    540  720   Y   * Ohio_State
+  26  Matthew Berry         200  180  160    0    0    0    540  640   N   * Louisville
+  26  Jordan Hamilton       200  220  120    0    0    0    540  560   N   * Louisville
+  26  Kroy Biermann         200  180  160    0    0    0    540  320   N   X Georgetown
+  26  Takeo Spikes          240  220   80    0    0    0    540    0   N   X Indiana
+  31  Dick Vitale           210  200  120    0    0    0    530  720   N   * Louisville
+  31  Mike Greenberg        230  180  120    0    0    0    530  720   N   * Louisville
+  31  Tobias Harris         190  180  160    0    0    0    530  640   N   * Louisville
+  31  Stevie Johnson        230  180  120    0    0    0    530  320   N   X Indiana
+  31  Bubba Watson          210  200  120    0    0    0    530   80   N   X Gonzaga
+  36  Tony Kornheiser       200  200  120    0    0    0    520  320   N   X Indiana
+  36  Duane Brown           200  240   80    0    0    0    520  240   N   X Indiana
+  38  Serge Ibaka           210  180  120    0    0    0    510   80   N   X Georgetown
+  39  Mark Schlereth        220  200   80    0    0    0    500    0   N   X Michigan_St
+  40  Jay Williams          190  180  120    0    0    0    490  560   N   * Ohio_State
+  41  Swin Cash             220  180   80    0    0    0    480  640   N   * Louisville
+  41  Jason Cameron         220  180   80    0    0    0    480  560   N   * Louisville
+  41  Kid President         220  140  120    0    0    0    480  320   N   X Gonzaga
+  41  Calais Campbell       200  200   80    0    0    0    480  320   N   X Miami_Fl
+  45  Scott Van Pelt        190  200   80    0    0    0    470  640   N   * Ohio_State
+  45  Ryen Russillo         190  200   80    0    0    0    470   80   N   X Miami_Fl
+  45  Mike Hill             230  160   80    0    0    0    470   80   N   X Michigan_St
+  48  Terrell Thomas        210  160   80    0    0    0    450  640   N   * Duke
+  48  Will Smith            190  180   80    0    0    0    450  640   N   * Ohio_State
+  48  Neil Walker           210  160   80    0    0    0    450  240   N   X Indiana
+  48  Drew Stanton          250  120   80    0    0    0    450  160   N   X Michigan_St
+  48  Claire Coffee         250  160   40    0    0    0    450   80   N   X Saint_Louis
+  53  Colin Cowherd         220  160   40    0    0    0    420   80   N   X Miami_Fl
+  53  Danny Green           220  160   40    0    0    0    420    0   N   X Indiana
+  55  Tom Wallisch          210  160   40    0    0    0    410  560   N   * Louisville
+  55  Scott Porter's Dream  210  160   40    0    0    0    410  240   N   X Georgetown
+  57  Kim English           220  120   40    0    0    0    380  240   N   X Missouri
+  57  Michael Wilbon        180  160   40    0    0    0    380   80   N   X Georgetown
+Total alive players 13
+All possible winners and their winning scenarios are 
+Candace Parker: The winner scenarios versus each person and whole pools are: 
+	Amir Johnson : S4_5' W2_4 E4_4' + W2_4 S4_4' + W2_4' S3_4 + S4_4' S3_4' E4_4'
+	Felix Jones : M1_5 + M1_4 S3_4 E4_4' + W2_5' M1_4 + W2_5' S3_4 + W2_5' E4_4'
+	Ronny Turiaf : M1_4 + W2_4 + M2_4'
+	Joe Lunardi : S3_5'
+	Zach McAllister : M1_5 + W2_5'
+	Kirk Morrison : M1_5 + M2_5' M1_4 + M2_5' M2_4 S3_4 + M1_4' M2_4'
+	Jonathan Coachman : M1_5 + M1_4 S3_4 + W2_5' M1_4 + W2_5' S3_4 + W2_5' M2_4'
+	Jesse Williams : S4_4'
+	Jordan Crawford : M1_6 + S4_6' M1_5 + M1_5' S4_5' M1_4 + S4_5' M1_4' W2_4 + M1_4' W2_4' S4_4'
+	Guy Torry : M1_6 + M2_6' M1_5 + M1_5' M2_5'
+	Mike Conley : M1_6 + W2_6' M1_5 + M1_5' W2_5'
+	Whole Pool : M1_5 S3_5' S3_4 + W2_5' S3_5' M1_4 S3_4 + M2_5' W2_5' S3_5' W2_4 S3_4 + W2_5' E3_5 M1_4 S3_4 + S3_5' M1_4 W9_4 S3_4
+Amir Johnson: The winner scenarios versus each person and whole pools are: 
+	Candace Parker : S4_5 + S4_4 E4_4 + W2_4' S4_4 + W2_4' S3_4' E4_4
+	Felix Jones : M1_5 + S4_5 M1_4 + W2_5' S4_5 + W2_5' M1_4 S4_4 + M1_4 W2_4' + S4_5' W2_4' S4_4
+	Ronny Turiaf : M1_5 + S4_5 + M1_4 S4_4 + M1_4 E4_4 + M1_4 S3_4' + S4_4 E4_4 + M2_4' S4_4 + M2_4' S3_4' E4_4
+	Joe Lunardi : S4_5 + S3_5' S4_4 + S3_5' S3_4 E4_4 + S4_4' S3_4'
+	Zach McAllister : M1_5 + S4_5 + W2_5' S4_4 + W2_5' E4_4 + W2_4'
+	Kirk Morrison : M1_5 + S4_5 W2_4' + M2_5' S4_5 + M2_5' M1_4 + M2_5' M2_4 S4_4 E4_4 + M2_5' M2_4 W2_4' S4_4 + M2_5' M2_4 W2_4' E4_4 + S4_5' M1_4' M2_4' S4_4 + M1_4' M2_4' S4_4' E4_4 + M1_4' M2_4' W2_4'
+	Jonathan Coachman : M1_5 + S4_5 M1_4 + S4_5 M2_4' + W2_5' S4_5 + W2_5' M1_4 + W2_5' W2_4 S4_4 E4_4 + S4_5' M2_4 W2_4' S4_4 + M2_4 W2_4' S4_4' E4_4 + W2_5' M2_4' W2_4 S4_4 + W2_5' M2_4' W2_4 E4_4 + M1_4' M2_4' W2_4'
+	Jesse Williams : S4_5 + E4_4 + W2_4'
+	Jordan Crawford : M1_5 + S4_6'
+	Guy Torry : M1_6 + M2_6' M1_5 + M2_6' M2_5 S4_5 W2_4' + M1_5' M2_5' S4_5 + M1_5' M2_5' M1_4 S4_4 + M1_5' M2_5' M1_4 E4_4 + M1_5' M2_5' M1_4 S3_4' + M1_5' M2_5' M1_4 W2_4' + M2_5' S4_5' M2_4 S4_4 E4_4 + M2_5' S4_5' M2_4 W2_4' S4_4 + M2_5' M2_4 W2_4' S4_4' S3_4' E4_4 + S4_5' M1_4' M2_4' S4_4 + M1_4' M2_4' S4_4' S3_4' E4_4 + M1_4' M2_4' W2_4' S3_4 E4_4 + M1_4' M2_4' W2_4' S4_4' S3_4'
+	Mike Conley : M1_6 + W2_6' M1_5 + W2_6' W2_5 S4_5 + M1_5' W2_5' S4_5 + M1_5' W2_5' W2_4 S4_4 + M1_5' W2_5' W2_4 S3_4' E4_4 + M1_5' S4_5' W2_4' S4_4 + M1_5' W2_4' S3_4 E4_4 + M1_5' W2_4' S4_4' S3_4'
+	Whole Pool : M1_5 S4_5 + M1_5 S4_4 E4_4 + M1_5 W9_4 S4_4 + M2_6' S4_6' S4_5 W9_4 + W2_6' S4_6' S4_5 M1_4 + S4_6' S4_5 M1_4 W9_4 E4_4 + S4_6' M2_5' W2_5' S4_5 + S4_6' M2_5' S4_5 W9_4 E4_4 + S4_6' W2_5' M1_4 S4_4 E4_4 + S4_6' M1_4 W9_4 S4_4 + S4_6' M2_5' S4_5 M2_4 W9_4 + M2_5' S4_5' W9_4 S4_4 E4_4 + S4_5' S3_5' M1_4 W9_4 S4_4
+Felix Jones: The winner scenarios versus each person and whole pools are: 
+	Candace Parker : W2_5 E4_4 + W2_5 S3_4' + W2_5 M1_4' + M1_4' S3_4' E4_4
+	Amir Johnson : W2_5 S4_5' + W2_5' M1_4' W2_4 S4_4'
+	Ronny Turiaf : W2_5 + W2_4 S3_4' E4_4 + M2_4' W2_4 E4_4 + M2_4' W2_4 S3_4' + M2_4' S3_4' E4_4
+	Joe Lunardi : W2_5 + M1_5' S3_5' W2_4 E4_4 + M1_5' M1_4 W2_4 S3_4' + M1_5' M1_4 S3_4' E4_4 + S3_5' M1_4' W2_4 + S3_5' M1_4' S3_4 E4_4 + M1_4' W2_4' S3_4'
+	Zach McAllister : E4_4 + M1_4'
+	Kirk Morrison : W2_5 + M2_5' E4_4 + M2_4'
+	Jonathan Coachman : E4_4 + M2_4'
+	Jesse Williams : W2_5 + M1_5' S4_4' E4_4 + M1_4' E4_4 + M1_4' S4_4'
+	Jordan Crawford : S4_6' W2_5 + W2_5' S4_5' W2_4 + S4_5' W2_4' E4_4 + W2_4' S4_4'
+	Guy Torry : W2_5 + M2_5' S3_4' E4_4 + M2_4' E4_4 + M2_4' S3_4'
+	Mike Conley : W2_6' S3_4' E4_4 + W2_6' M1_4' E4_4 + W2_6' M1_4' S3_4'
+	Whole Pool : W2_6' W2_5 S4_5' S4_4 E4_4 + W2_6' W2_5 S4_5' M2_4 E4_4
+Ronny Turiaf: The winner scenarios versus each person and whole pools are: 
+	Candace Parker : M2_4 W2_4'
+	Amir Johnson : M2_4 S3_4 + M2_4 S4_4' E4_4' + M1_4' S3_4 E4_4'
+	Felix Jones : W2_5' M2_4 S3_4 E4_4' + M2_4 W2_4' S3_4 + M2_4 W2_4' E4_4' + W2_4' S3_4 E4_4'
+	Joe Lunardi : S3_5' M1_4'
+	Zach McAllister : M1_4 W2_4' S3_4 + W2_5' M2_4 + W2_5' M1_4' W2_4 S3_4 + M1_4' M2_4' W2_4'
+	Kirk Morrison : M2_5' S3_4 + M2_5' W2_4'
+	Jonathan Coachman : W2_5' S3_4 + W2_4'
+	Jesse Williams : M1_5' M1_4 W2_4' S3_4 + M2_4 S4_4' + M2_4 W2_4' + M1_4' M2_4' W2_4 S3_4 + M1_4' W2_4' S4_4'
+	Jordan Crawford : S4_5' M2_4 + M2_4' S4_4'
+	Guy Torry : M2_5' W2_4'
+	Mike Conley : W2_5' M2_4 + M1_4' M2_4' W2_4'
+	Whole Pool : M2_5' S4_5' S3_5' M2_4 W9_4 S3_4 + M2_5' S3_5' M2_4 W9_4 S3_4 E3_4 + M2_5' E3_5 M2_4 W9_4 S3_4
+Joe Lunardi: The winner scenarios versus each person and whole pools are: 
+	Candace Parker : S3_5
+	Amir Johnson : S3_5 + S3_4 E4_4'
+	Felix Jones : M1_5 + W2_5' S3_5 + W2_5' M1_4 W2_4 S3_4 E4_4' + S3_5' M1_4 W2_4' S3_4 + M1_4 W2_4' S3_4' E4_4' + S3_5' W2_4' S3_4 E4_4'
+	Ronny Turiaf : M1_4 + S3_5
+	Zach McAllister : M1_5 + W2_5' S3_5 + S3_5' W2_4' S3_4
+	Kirk Morrison : M1_5 + M2_5' S3_5 + M2_5' M1_4 S3_4 + M2_5' M1_4 W2_4' + S3_5' M1_4' M2_4' W2_4' S3_4
+	Jonathan Coachman : M1_5 + S3_5 M1_4 + S3_5 M2_4' + W2_5' S3_5 + W2_5' M1_4 + S3_5' M2_4 W2_4' S3_4 + W2_5' M2_4' W2_4 S3_4 + M1_4' M2_4' W2_4'
+	Jesse Williams : S3_5 + W2_4 S3_4 + W2_4' S4_4'
+	Jordan Crawford : M1_6 + S4_6' M1_5 + M1_5' S3_5 + M1_5' S4_5' M1_4 + S3_5' M1_4' S4_4'
+	Guy Torry : M1_6 + M2_6' M1_5 + M1_5' M2_5' S3_5 + M1_5' M2_5' M1_4 + S3_5' M1_4' M2_4' W2_4'
+	Mike Conley : M1_6 + W2_6' M1_5 + M1_5' W2_5' S3_5 + M1_5' S3_5' W2_4'
+	Whole Pool : M1_6 S3_5 + S3_5 M1_4 W9_4 + S4_6' M1_5 S3_5 + M2_5' S3_5 W9_4 + W9_5 S3_5
+Zach McAllister: The winner scenarios versus each person and whole pools are: 
+	Candace Parker : W2_5
+	Amir Johnson : W2_5 S4_5' + M1_5' W2_5' W2_4 S4_4' E4_4'
+	Felix Jones : M1_4 E4_4'
+	Ronny Turiaf : W2_5 + M1_4 W2_4 + M1_4 S3_4' + M2_4' W2_4 S3_4'
+	Joe Lunardi : W2_5 S3_5' + M1_5' W2_5' W2_4 S3_4'
+	Kirk Morrison : W2_5 + M2_5' M1_4
+	Jonathan Coachman : M1_4 + M2_4'
+	Jesse Williams : W2_5 + M1_5' S4_4'
+	Jordan Crawford : S4_6' W2_5 + W2_5' S4_5' M1_4 + W2_5' S4_5' W2_4 + M1_4' W2_4' S4_4'
+	Guy Torry : W2_5 + M2_5' M1_4 + M1_4' M2_4' S3_4'
+	Mike Conley : W2_6' S3_4'
+	Whole Pool : W2_6' W2_5 E3_5 M1_4 S4_4
+Kirk Morrison: The winner scenarios versus each person and whole pools are: 
+	Candace Parker : M2_5 + M2_4 S3_4'
+	Amir Johnson : M2_5 W2_4 + M2_5 S4_5' + S4_5' M2_4 W2_4 E4_4' + M2_4 W2_4 S4_4' + M2_5' M2_4 S4_4' E4_4' + M1_4' W2_4 S4_4' E4_4'
+	Felix Jones : M2_5 + W2_5' M2_4 E4_4'
+	Ronny Turiaf : M2_5 + W2_4 S3_4'
+	Joe Lunardi : M2_5 + S3_5' M2_4 W2_4 + M2_4 W2_4' S3_4' + M1_4' M2_4' W2_4 S3_4'
+	Zach McAllister : M2_5 + W2_5' M2_4
+	Jonathan Coachman : M2_5 + W2_5'
+	Jesse Williams : M2_4 + M1_4' S4_4'
+	Jordan Crawford : S4_6' M2_5 + M2_5' S4_5' M2_4 + S4_5' M2_4' W2_4 + M2_4' W2_4' S4_4'
+	Guy Torry : M2_6' S3_4'
+	Mike Conley : W2_6' M2_5 + M2_5' W2_5' M2_4 + W2_5' M1_4' M2_4' S3_4'
+	Whole Pool : M2_6' S4_6' M2_5 W2_4 S4_4 + M2_6' M2_5 S4_5' S4_4 + M2_5' W2_5' E3_5 M2_4 W2_4 S4_4
+Jonathan Coachman: The winner scenarios versus each person and whole pools are: 
+	Candace Parker : W2_5 S3_4' + W2_5 M1_4' + M2_4 S3_4'
+	Amir Johnson : W2_5 M2_4 + W2_5 S4_5' + S4_5' M2_4 W2_4 E4_4' + M2_4 W2_4 S4_4' + M2_4 S4_4' E4_4' + W2_5' M1_4' W2_4 S4_4' E4_4'
+	Felix Jones : M2_4 E4_4'
+	Ronny Turiaf : W2_5 + W2_4 S3_4'
+	Joe Lunardi : W2_5 M2_4 + W2_5 S3_5' + S3_5' M2_4 W2_4 + M2_4 W2_4' S3_4' + W2_5' M1_4' M2_4' W2_4 S3_4'
+	Zach McAllister : M2_4
+	Kirk Morrison : W2_5
+	Jesse Williams : W2_5 + M2_4 + M1_4' S4_4'
+	Jordan Crawford : S4_6' W2_5 + W2_5' S4_5' M2_4 + W2_5' S4_5' W2_4 + M2_4' W2_4' S4_4'
+	Guy Torry : W2_5 + M2_5' S3_4'
+	Mike Conley : W2_6' M2_4 + W2_6' M1_4' S3_4'
+	Whole Pool : W2_6' S4_6' W2_5 M2_4 E3_4
+Jesse Williams: The winner scenarios versus each person and whole pools are: 
+	Candace Parker : S4_4
+	Amir Johnson : S4_5' W2_4 E4_4'
+	Felix Jones : M1_5 + W2_5' M1_4 S4_4 + W2_5' M1_4 E4_4' + W2_5' S4_4 E4_4'
+	Ronny Turiaf : M1_5 + M1_4 W2_4 + M1_4 S4_4 + M1_4 S3_4' + W2_4 S4_4 + M2_4' W2_4 S3_4' + M2_4' S4_4
+	Joe Lunardi : S3_5' S4_4 + W2_4 S4_4' S3_4'
+	Zach McAllister : M1_5 + W2_5' S4_4
+	Kirk Morrison : M1_5 + M2_5' M1_4 + M1_4' M2_4' S4_4
+	Jonathan Coachman : M1_5 + W2_5' M1_4 + W2_5' M2_4' S4_4
+	Jordan Crawford : M1_6 + S4_6' M1_5 + S4_6' S4_5 M1_4 W2_4 + M1_5' S4_5'
+	Guy Torry : M1_6 + M2_6' M1_5 + M1_5' M2_5' M1_4 + M2_5' M2_4 S4_4 + M1_4' M2_4' S4_4 + M1_4' M2_4' S3_4'
+	Mike Conley : M1_6 + W2_6' M1_5 + M1_5' W2_5' S4_4 + M1_5' W2_5' S3_4'
+	Whole Pool : M1_5 S4_5' W2_4 S4_4 E3_4 + W2_5' S4_5' M1_4 W2_4 S4_4 E3_4
+Jordan Crawford: The winner scenarios versus each person and whole pools are: 
+	Candace Parker : S4_6 + M1_5' S4_5 W2_4' + S4_5 M1_4'
+	Amir Johnson : S4_6 M1_5'
+	Felix Jones : S4_6 + W2_5' S4_5 + S4_5' W2_4' S4_4 E4_4'
+	Ronny Turiaf : S4_5 + M2_4' S4_4
+	Joe Lunardi : S4_6 + M1_5' S4_5 + S4_5' S3_5' M1_4' S4_4
+	Zach McAllister : S4_6 + W2_5' S4_5 + S4_5' M1_4' W2_4' S4_4
+	Kirk Morrison : S4_6 + M2_5' S4_5 + S4_5' M2_4' W2_4' S4_4
+	Jonathan Coachman : S4_6 + W2_5' S4_5 + S4_5' M2_4' W2_4' S4_4
+	Jesse Williams : S4_6 + M1_5' S4_5 W2_4' + S4_5 M1_4'
+	Guy Torry : S4_6 + M2_5' S4_5 + M2_5' M2_4 W2_4' S4_4 + S4_5' M2_4' S4_4 + M2_4' W2_4' S4_4' S3_4'
+	Mike Conley : S4_6 + W2_6' S4_5 M1_4' + W2_5' S4_5 + S4_5' W2_4' S4_4 + W2_5' M1_4' W2_4 S4_4 + M1_4' W2_4' S4_4' S3_4'
+	Whole Pool : S4_6 M1_5' + S4_6 W9_5 M2_4
+Guy Torry: The winner scenarios versus each person and whole pools are: 
+	Candace Parker : M2_5
+	Amir Johnson : M2_6 + M2_5 W2_4 + M2_5 S4_5' + M1_5' M1_4 W2_4 S3_4 E4_4' + S4_5' M2_4 W2_4 E4_4' + M2_4 W2_4 S4_4' + M2_5' M2_4 W2_4' S3_4 + M2_5' M2_4 S4_4' S3_4' E4_4' + M1_4' M2_4' W2_4 S3_4 + M1_4' W2_4 S4_4' S3_4' E4_4' + M1_4' M2_4' S3_4 E4_4'
+	Felix Jones : M2_5 + W2_5' M2_4 S3_4 + W2_5' M2_4 E4_4' + W2_5' S3_4 E4_4'
+	Ronny Turiaf : M2_5 + W2_4
+	Joe Lunardi : M2_5 + S3_5' M2_4 + S3_5' M1_4' W2_4
+	Zach McAllister : M2_5 + W2_5' M2_4 + W2_5' M1_4' S3_4
+	Kirk Morrison : M2_6 + S3_4
+	Jonathan Coachman : M2_5 + W2_5' S3_4
+	Jesse Williams : M2_5 + M2_4 S4_4' + M1_4' M2_4' S3_4
+	Jordan Crawford : M2_6 + S4_6' M2_5 + S4_5' M2_4 W2_4 + M2_5' M2_4 W2_4' S4_4' + M2_4' W2_4 S4_4' + M2_4' W2_4' S3_4
+	Mike Conley : M2_6 + W2_6' M2_5 + M2_5' W2_5' M1_4'
+	Whole Pool : M2_6 + M2_5 W2_4 S3_4 + M2_5 S4_5' S3_4
+Mike Conley: The winner scenarios versus each person and whole pools are: 
+	Candace Parker : W2_5
+	Amir Johnson : W2_6 + W2_5 S4_5' + M1_5' W2_5' W2_4 S3_4 + M1_5' W2_5' W2_4 S4_4' E4_4' + M1_5' W2_4' S3_4 E4_4'
+	Felix Jones : W2_6 + M1_4 S3_4 + M1_4 E4_4' + S3_4 E4_4'
+	Ronny Turiaf : W2_5 + M1_4 + M2_4' W2_4
+	Joe Lunardi : W2_5 + M1_5' S3_5' W2_4
+	Zach McAllister : W2_6 + S3_4
+	Kirk Morrison : W2_5 + M2_5' M1_4 + M1_4' M2_4' S3_4
+	Jonathan Coachman : W2_6 + M1_4 + M2_4' S3_4
+	Jesse Williams : W2_5 + M1_5' S3_4
+	Jordan Crawford : W2_6 + S4_6' W2_5 M1_4 + W2_5 S4_5' + S4_5' M1_4 W2_4 + M1_4 W2_4' S4_4' + W2_5' M1_4' W2_4 S4_4' + M1_4' W2_4' S3_4
+	Guy Torry : W2_5 + M2_5' M1_4
+	Whole Pool : W2_6 + W2_5 S4_5' M1_4 S3_4
+Total runtime is 0.321951

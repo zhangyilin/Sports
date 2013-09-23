@@ -1,0 +1,48 @@
+Reading outcome runtime is 2.4e-05
+Reading player runtime is 0.00061
+Sorting player runtime is 0.000245
+Reading input runtime is 0.001558
+Max score pruning runtime is 0.000238
+After pruning based on max score
+Standing after Round 4
+Rank  Name        R64  R32  S16   E8   F4  NCG  Total  PPR Alv  Champion
+   1  Fadi        220  240  160   80    0    0    700  480   Y   * Michigan
+   2  DonNguyen   210  240  160   80    0    0    690    0   N   X Ohio_State
+   3  JohnCarter  230  220  120   80    0    0    650  160   Y   X Florida
+   4  TomOsiecki  220  220  120   80    0    0    640    0   N   X Georgetown
+   5  Chuck       210  220  120   80    0    0    630  480   Y   * Louisville
+   6  Anthony     220  220   80   80    0    0    600  480   Y   * Louisville
+   7  Zhuo        210  220  160    0    0    0    590    0   N   X Duke
+   8  Cliff       220  220  120    0    0    0    560    0   N   X Duke
+   9  Jeremy      240  180   40   80    0    0    540    0   N   X Indiana
+  10  Marisa      170  120   80    0    0    0    370    0   N   X Duke
+Total alive players 4
+Two player pruning runtime is 0
+After pruning based on diff matrix
+Standing after Round 4
+Rank  Name        R64  R32  S16   E8   F4  NCG  Total  PPR Alv  Champion
+   1  Fadi        220  240  160   80    0    0    700  480   Y   * Michigan
+   2  DonNguyen   210  240  160   80    0    0    690    0   N   X Ohio_State
+   3  JohnCarter  230  220  120   80    0    0    650  160   Y   X Florida
+   4  TomOsiecki  220  220  120   80    0    0    640    0   N   X Georgetown
+   5  Chuck       210  220  120   80    0    0    630  480   Y   * Louisville
+   6  Anthony     220  220   80   80    0    0    600  480   N   * Louisville
+   7  Zhuo        210  220  160    0    0    0    590    0   N   X Duke
+   8  Cliff       220  220  120    0    0    0    560    0   N   X Duke
+   9  Jeremy      240  180   40   80    0    0    540    0   N   X Indiana
+  10  Marisa      170  120   80    0    0    0    370    0   N   X Duke
+Total alive players 3
+All possible winners and their winning scenarios are 
+Fadi: The winner scenarios versus each person and whole pools are: 
+	JohnCarter : S4_5 + M1_5'
+	Chuck : S4_6 + M1_6' S4_5 + M1_5'
+	Whole Pool : S4_6 + M1_6' S4_5 + W9_5
+JohnCarter: The winner scenarios versus each person and whole pools are: 
+	Fadi : M1_5 S4_5'
+	Chuck : M1_6'
+	Whole Pool : M1_6' M1_5 E4_5
+Chuck: The winner scenarios versus each person and whole pools are: 
+	Fadi : M1_6 + M1_5 S4_5'
+	JohnCarter : M1_6
+	Whole Pool : M1_6
+Total runtime is 0.009344
